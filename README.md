@@ -1,0 +1,1 @@
+Stampa la stringa "HelloUser!"
